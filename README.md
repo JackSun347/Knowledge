@@ -6,23 +6,26 @@
 
 ## 包含学科
 
-- 化学（化学方程式、物质性质、实验步骤等）
+- 化学（知识点、实验等）
 
 - 历史（核心考点、知识框架等）
 
-> 说明：目前只涵盖化学和历史，其他学科以及历史新版教程暂无更新计划。
+> 说明：目前只涵盖化学和历史，道德与法治已有更新计划，其他学科以及历史新版教程暂无更新计划。
 > 
 > 
+- 道德与法治（核心考点、知识框架等）【已有计划】
 
-- 语文（古诗文、文言实词、作文素材等）【暂未更新】
+- 语文（古诗文、文言实词、作文素材等）【无计划】
 
-- 数学（公式定理、解题思路、易错点等）【暂未更新】
+- 数学（公式定理、解题思路、易错点等）【无计划】
 
-- 英语（单词短语、语法考点、作文模板等）【暂未更新】
+- 英语（单词短语、语法考点、作文模板等）【无计划】
 
-- 物理（概念公式、实验原理、题型归纳等）【暂未更新】
+- 物理（概念公式、实验原理、题型归纳等）【无计划】
 
-- 生物/地理/道德与法治（核心考点、知识框架等）【暂未更新】
+- 生物（知识点、模型）【无计划】
+
+- 地理（知识点、模型）【无计划】
 
 ## 注意事项
 
@@ -44,23 +47,27 @@ This is a repository dedicated to collating core knowledge points of junior high
 
 ## Subjects Included
 
-- Chemistry (Chemical equations, material properties, experimental steps, etc.)
+- Chemistry (knowledge points, experiments, etc.)
 
-- History (Core examination points, knowledge frameworks, etc.)
+- History (core exam points, knowledge frameworks, etc.)
 
-> Note: Currently, only Chemistry and History are covered. There are no plans to update other subjects or the new version of the History textbook for the time being.
+> Note: Currently, only Chemistry and History are covered. Plans for updating Morality and Rule of Law have been made, and there are no plans to update other subjects or the new version of the History textbook.
 > 
 > 
 
-- Chinese (Ancient poems and prose, classical Chinese function words, composition materials, etc.) [Not Updated Yet]
+- Morality and Rule of Law (core exam points, knowledge frameworks, etc.) [Planned]
 
-- Mathematics (Formulas and theorems, problem-solving ideas, error-prone points, etc.) [Not Updated Yet]
+- Chinese (ancient poems and essays, classical Chinese content words, writing materials, etc.) [No Plan]
 
-- English (Words and phrases, grammar examination points, composition templates, etc.) [Not Updated Yet]
+- Mathematics (formulas and theorems, problem-solving ideas, error-prone points, etc.) [No Plan]
 
-- Physics (Concepts and formulas, experimental principles, question type induction, etc.) [Not Updated Yet]
+- English (words and phrases, grammar exam points, writing templates, etc.) [No Plan]
 
-- Biology/Geography/Morality and Rule of Law (Core examination points, knowledge frameworks, etc.) [Not Updated Yet]
+- Physics (concepts and formulas, experimental principles, question type summaries, etc.) [No Plan]
+
+- Biology (knowledge points, models) [No Plan]
+
+- Geography (knowledge points, models) [No Plan]
 
 ## Notes
 
