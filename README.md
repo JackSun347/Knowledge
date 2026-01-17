@@ -10,10 +10,11 @@
 
 - 历史（核心考点、知识框架等）
 
-> 说明：目前只涵盖化学和历史，道德与法治已有更新计划，其他学科以及历史新版教程暂无更新计划。
+- 道德与法治（核心考点、知识框架等）
+
+> 说明：目前只涵盖化学、历史和道德与法治，其他学科以及历史新版教程暂无更新计划。
 > 
 > 
-- 道德与法治（核心考点、知识框架等）【已有计划】
 
 - 语文（古诗文、文言实词、作文素材等）【无计划】
 
@@ -51,11 +52,11 @@ This is a repository dedicated to collating core knowledge points of junior high
 
 - History (core exam points, knowledge frameworks, etc.)
 
-> Note: Currently, only Chemistry and History are covered. Plans for updating Morality and Rule of Law have been made, and there are no plans to update other subjects or the new version of the History textbook.
-> 
-> 
+- Morality and Rule of Law (core exam points, knowledge frameworks, etc.)
 
-- Morality and Rule of Law (core exam points, knowledge frameworks, etc.) [Planned]
+> Note: Currently, it only covers Chemistry, History, and Morality and Rule of Law. There are no update plans for other subjects or the new edition of History textbooks.
+> 
+> 
 
 - Chinese (ancient poems and essays, classical Chinese content words, writing materials, etc.) [No Plan]
 
